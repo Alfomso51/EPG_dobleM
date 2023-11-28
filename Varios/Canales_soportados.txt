@@ -12,7 +12,7 @@
 15 - M+ Terror
 17 - M+ Documentales
 18 - M+ Música
-19 - La Resistencia 24H
+19 - La Resistencia
 20 - M+ Clásicos
 21 - M+ Acción
 22 - M+ Comedia
@@ -21,8 +21,8 @@
 25 - M+ Indie
 26 - M+ Cine Español
 30 - TCM
-31 - Canal Hollywood
-36 - Paramount Network
+31 - Hollywood
+36 - Paramount Channel
 37 - Be Mad
 38 - FOX
 39 - AXN
@@ -48,7 +48,7 @@
 63 - M+ Deportes
 64 - M+ Deportes 2
 65 - M+ Deportes 3
-66 - M+ Ellas Vamos
+66 - M+ Ellas V
 67 - M+ Golf
 68 - M+ Golf 2
 69 - DAZN F1
@@ -402,7 +402,7 @@ iConcerts
 Djazz
 Cazavisión
 7NN
-TR3CE
+13TV
 Telemadrid Int.
 Deutsche W
 Pro TV
